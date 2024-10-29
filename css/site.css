@@ -6,24 +6,24 @@
             margin: 0;
         }
         @font-face{
-            font-family: "Segoe UI";
+            font-family: "Ink free";
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
             height: 100%;
             width: 100%;
-            background-color: #1d539d;
-            color: white;
-            padding-top: 6%;
+            background-color: #91aed7;
+            color: rgb(223, 175, 175);
+            padding-top: 10%;
             box-sizing: border-box;
             overflow-y: auto;
             overflow-x: hidden;
-            font-family: "Segoe UI";
+            font-family: "Ink free";
         }
 
         .cloud-image {
             width: 1200px;
-            height: 250px;
+            height: 230px;
             padding-bottom: 50px;
             margin: auto;
         }
@@ -68,12 +68,12 @@
         }
 		
 		.step-text a {
-            color: white;
+            color: rgb(199, 227, 208);
 			text-decoration: none;
         }
 		
 		.step-text a:hover {
-            color: white;
+            color: rgb(212, 208, 228);
 			text-decoration:underline;
         }
 
